@@ -1,0 +1,4 @@
+# Ignore large files
+crop disease/crop disease.rar
+crop disease/bestweights.hdf5
+crop disease/model ouput/bestweights.hdf5
